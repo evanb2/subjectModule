@@ -1,0 +1,5 @@
+name = Remove Subject Field
+description = Submodule to remove the subject field from the user comments.
+package = Epicodus Examples
+core = 7.x
+files[] = rm_subject.module
